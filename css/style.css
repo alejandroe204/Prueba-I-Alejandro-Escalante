@@ -1,0 +1,98 @@
+header{
+    position: absolute;
+	width: 100%;
+	padding-top: 20px;
+	font-family: "Nanum Pen Script", cursive;
+  	font-weight: 400;
+}
+
+.brand{
+	font-family: "Shojumaru", system-ui;
+	font-size: 20px;
+  	font-weight: 400;
+  	font-style: normal;
+	color: #fff;
+}
+
+#hero {
+	background-image: url("../img/bg-hero.png");
+	background-size: cover;
+	background-position: center;
+	color: #fff;
+	text-align: center;
+	padding-top: 20%;
+	padding-bottom: 20%;
+}
+
+#hero h1{
+	font-family: "Shojumaru", system-ui;
+	font-size: 70px;
+  	font-weight: 400;
+  	font-style: normal;
+	color: #f49f28;
+}
+
+#hero h3{
+	font-family: "Nanum Pen Script", cursive;
+  	font-weight: 400;
+  	font-style: normal;
+}
+
+#hero u{
+	color: #f49f28;
+}
+
+.hwnoffer{
+    text-align: center;
+	margin: 10%;
+}
+
+.titulo{
+    font-family: "Shojumaru", system-ui;
+    font-size: medium;
+}
+
+.titulo1{
+    font-family: "Nanum Pen Script", serif;
+	font-size: 60px;
+}
+.subtitle{
+    font-family: "Nanum Pen Script", serif;
+    font-size: 30px;   
+}
+.parrafo{
+    color: #999 ;
+	font-size: 19px;
+}
+
+.ilust1{
+    width: 100px;
+    height: auto;
+}
+
+.star{
+    text-align: center;
+    padding: 8% 30%;
+}
+.ilust2{
+    width: 50px;
+    height: auto;
+}
+
+.faq{
+    background-color: #f9faf2;
+	padding-top: 10%;
+	padding-bottom: 8%;
+}
+
+.footer{
+    text-align: center;
+    background: rgb(244,159,40);
+    background: linear-gradient(90deg, rgba(244,159,40,1) 0%, rgba(244,111,40,0.9893207282913166) 100%);
+	padding: 6%;
+}
+
+.imgft{
+    width: 230px;
+    height: auto;
+}
